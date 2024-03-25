@@ -537,7 +537,7 @@
         "grapheme-splitter": "^1.0.4",
         "highlight.js": "^11.2.0",
         "image-size": "^0.9.3",
-        "katex": "^0.13.16",
+        "katex": "^0.16.10",
         "markdown-it": "^12.2.0",
         "markdown-it-task-lists": "^2.1.1",
         "string-similarity": "^4.0.4"
